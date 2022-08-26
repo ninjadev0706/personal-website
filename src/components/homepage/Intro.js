@@ -27,7 +27,7 @@ const Intro = props => {
 					<br></br>
 					{contact.address}
 					<br></br>
-					{contact.mobile}
+					{/* {contact.mobile} */}
 					<br></br><br></br>
 
 					<a
