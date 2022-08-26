@@ -8,6 +8,9 @@ import project3 from "../../Assets/Projects/project3.png";
 import project4 from "../../Assets/Projects/project4.png";
 import project5 from "../../Assets/Projects/project5.png";
 import project6 from "../../Assets/Projects/project6.png";
+import project7 from "../../Assets/Projects/project7.png";
+import project8 from "../../Assets/Projects/project8.png";
+import project9 from "../../Assets/Projects/project9.png";
 
 function Projects() {
   return (
@@ -21,6 +24,38 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={project9}
+              isBlog={false}
+              title="https://cyberlete.io/"
+              description="Near protocal's marketplace. I developed the smart contract with Rust. And built the website with Next.js and integrated with smart contract using near-api-js."
+              ghLink="https://github.com/soumyajit4419/Chatify"
+              demoLink="https://cyberlete.io/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={project6}
+              isBlog={false}
+              title="https://the-devil-assassin.vercel.app/"
+              description="Solana NFT minting website. Built the website with wallet integration via react and web3.js. Developed the smart contract at Solana."
+              demoLink="https://the-devil-assassin.vercel.app/" 
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={project7}
+              isBlog={false}
+              title="https://ruggieznft.xyz/ruggiez/"
+              description="NFT minting website. Created and Deployed the Smart Contract to ERC-721. <br />
+              Built the Minting website with wallet integration via React & Web3.js"
+              demoLink="https://ruggieznft.xyz/ruggiez/" 
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={project1}
@@ -40,6 +75,17 @@ function Projects() {
               description="IDO launchpad for astro token. Astro token is rebase one. I developed the smart contract and exchange using traderjoe sdk. And developed the front end with React."
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="https://100days.finance/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={project8}
+              isBlog={false}
+              title="https://the-underground-nfts.vercel.app/"
+              description="NFT minting website. Created and Deployed the Smart Contract to ERC-721. <br />
+              Built the Minting website with wallet integration via React & Web3.js"
+              demoLink="https://the-underground-nfts.vercel.app/"              
             />
           </Col>
 
@@ -73,15 +119,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={project6}
-              isBlog={false}
-              title="https://the-devil-assassin.vercel.app/"
-              description="Solana NFT minting website. Built the website with wallet integration via react and web3.js. Developed the smart contract at Solana."
-              demoLink="https://the-devil-assassin.vercel.app/" 
-            />
-          </Col>
+          
         </Row>
       </Container>
     </Container>
