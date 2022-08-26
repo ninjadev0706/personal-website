@@ -50,7 +50,7 @@ function Projects() {
               imgPath={project7}
               isBlog={false}
               title="https://ruggieznft.xyz/ruggiez/"
-              description="NFT minting website. Created and Deployed the Smart Contract to ERC-721. <br />
+              description="NFT minting website. Created and Deployed the Smart Contract to ERC-721.
               Built the Minting website with wallet integration via React & Web3.js"
               demoLink="https://ruggieznft.xyz/ruggiez/" 
             />
@@ -83,7 +83,7 @@ function Projects() {
               imgPath={project8}
               isBlog={false}
               title="https://the-underground-nfts.vercel.app/"
-              description="NFT minting website. Created and Deployed the Smart Contract to ERC-721. <br />
+              description="NFT minting website. Created and Deployed the Smart Contract to ERC-721.
               Built the Minting website with wallet integration via React & Web3.js"
               demoLink="https://the-underground-nfts.vercel.app/"              
             />
