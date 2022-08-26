@@ -1,38 +1,164 @@
-.App {
-  text-align: center;
+@font-face {
+	font-family: 'farid';
+	src: url('fonts/Coolvetica.ttf.woff') format('woff'),
+		url('fonts/Coolvetica.ttf.svg#Coolvetica') format('svg'),
+		url('fonts/Coolvetica.ttf.eot'),
+		url('fonts/Coolvetica.ttf.eot?#iefix') format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+	font-family: 'Arial';
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.intro * {
+	line-height: 0.8;
+	font-size: 3.7rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.custom_container{
+	padding: 0px 50px 100px 50px !important;
 }
 
-.App-link {
-  color: #61dafb;
+.intro {
+	padding-top: 30px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.experience .link {
+	display: block;
+}
+
+.clear-large {
+	margin: 50px;
+	display: block;
+	width: 100%;
+}
+
+.clear-xlarge {
+	margin: 80px;
+	display: block;
+	width: 100%;
+}
+
+.clear-medium {
+	margin: 30px;
+	display: block;
+	width: 100%;
+}
+
+.clear-small {
+	margin: 10px;
+	display: block;
+	width: 100%;
+}
+
+.title {
+	font-size: 3rem;
+	color: #08fdd8;
+	line-height: 1;
+}
+
+.description {
+	margin-top: 10px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.skillName {
+	display: inline;
+	font-size: 0.8rem;
+	margin-bottom: 8px;
+	font-family: 'Arial';
+	letter-spacing: 2px;
+}
+
+.progress {
+	height: 1px;
+}
+
+.skills > .col-6 {
+	margin-top: 23px;
+}
+
+#mypicDiv:hover{
+	cursor: pointer;
+}
+
+.link {
+	text-decoration: none;
+	color: white;
+}
+
+.link:hover {
+	opacity: 0.5;
+	text-decoration: none;
+	color: white;
+}
+
+.showTime {
+	float: right;
+}
+
+.experience .showTime {
+	font-size: 0.8rem;
+	opacity: 0.6;
+	float: left;
+}
+
+td {
+	border: none !important;
+}
+
+@media (max-width: 992px) {
+	.showTime {
+		float: left;
+		opacity: 0.6;
+		font-size: 0.8rem;
+	}
+
+	#leftDiv {
+		position: static;
+	}
+}
+
+@media (min-width: 992px) {
+	#leftDiv {
+		position: relative;
+	}
+}
+
+@media (min-width: 1650px) {
+	.container-fluid {
+		max-width:1500px;
+	}
+	
+	.left-big-image{
+		padding:50px!important;
+	}
+}
+
+@media (min-width: 1200px) {
+	#leftDiv { 
+		padding-left:20px;
+	}
+}
+
+@media (min-width: 1400px) {
+	#leftDiv { 
+		padding-left:100px;
+	}
+}
+
+*::-webkit-scrollbar {
+  width: 10px;               
+}
+
+*::-webkit-scrollbar-track {
+  background:#0D1117;   
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: white;    
+  border-radius: 20px;      
+  border: 3px solid #0D1117;  
 }

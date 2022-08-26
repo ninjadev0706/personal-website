@@ -1,0 +1,835 @@
+{
+	"settings": {
+		"textColor": "white",
+		"backgroundColor": "#0D1117",
+		"padding": "50"
+	},
+	"info": {
+		"name": "Richard Kei",
+		"jobTitle": "Lead Block Chain developer",
+		"about": "Richard Kei. I'm an Enthusiastic Blockchain developer. I am a responsible, creative, and competent Block Chain Developer who can greatly contribute & support to your idea. I have a good relationship with all the clients who I have worked with because I have good experience in Software development. Fluent English proficiency can be supports good communication with customers and maintain good teamwork with business partners. Performing planned tasks, high quality, fast speed, and fast response, honesty are my basic advantages.",
+		"images": [
+			{
+				"id": 1,
+				"background_image": "/img/ninja2.png",
+				"background_position": "center"
+			}
+		]
+	},
+	"skills": [
+		{
+			"header": {
+				"name": "blockchain development",
+				"color": "rgb(159 207 229)",
+				"percent": "70"
+			},
+			"skills": [
+				{
+					"name": "Solidity",
+					"degree": "senior"
+				},
+				{
+					"name": "Rust",
+					"degree": "senior"
+				},
+				{
+					"name": "NFT Minting/Staking",
+					"degree": "senior"
+				},
+				{
+					"name": "NFT Marketplace",
+					"degree": "senior"
+				},
+				{
+					"name": "NFT Metadata JSON",
+					"degree": "senior"
+				},
+				{
+					"name": "Web3.js",
+					"degree": "senior"
+				},
+				{
+					"name": "ERC-721/721A/1155",
+					"degree": "senior"
+				},
+				{
+					"name": "Solana",
+					"degree": "senior"
+				},
+				{
+					"name": "Ethereum",
+					"degree": "senior"
+				},
+				{
+					"name": "Binance Smart Chain",
+					"degree": "senior"
+				},
+				{
+					"name": "DEX",
+					"degree": "senior"
+				},
+				{
+					"name": "DAO",
+					"degree": "senior"
+				},
+				{
+					"name": "Token Creation",
+					"degree": "senior"
+				}
+			]
+		},
+		{
+			"header": {
+				"name": "front-end part",
+				"color": "rgb(8, 253, 216, 0.5)",
+				"percent": "60"
+			},
+			"skills": [
+				{ "name": "React.js", "degree": "senior" },
+				{ "name": "Vue.js", "degree": "senior" },
+				{ "name": "Nuxt.js", "degree": "senior" },
+				{ "name": "TypeScript", "degree": "senior" },
+				{ "name": "Redux", "degree": "senior" },
+				{ "name": "PHP", "degree": "senior" },
+				{ "name": "HTML/CSS/Javascript/Bootstrap", "degree": "senior" },
+				{ "name": "Next.js", "degree": "senior" },
+				{ "name": "TailwindCSS", "degree": "senior" },
+				{ "name": "VueX", "degree": "senior" },
+				{ "name": "Ajax", "degree": "senior" },
+				{ "name": "jQuery", "degree": "senior" },
+				{ "name": "Material UI", "degree": "senior" },
+				{ "name": "Ant-design", "degree": "senior" },
+				{ "name": "Ajax", "degree": "senior" },
+				{ "name": "Swift", "degree": "senior" },
+				{ "name": "Jade", "degree": "senior" }
+			]
+		},
+		{
+			"header": {
+				"name": "back-end part",
+				"color": "rgb(255, 193, 7, 0.5)",
+				"percent": "100"
+			},
+			"skills": [
+				{ "name": "Node.js", "degree": "senior" },
+				{ "name": "Express.js", "degree": "senior" },
+				{ "name": "Socket.io", "degree": "senior" },
+				{ "name": "Java", "degree": "junior" },
+				{ "name": "PHP Fundamental", "degree": "senior" },
+				{ "name": "MySQL", "degree": "senior" },
+				{ "name": "Laravel", "degree": "senior" },
+				{ "name": "Yii/Yii2", "degree": "senior" },
+				{ "name": "CodeIgniter", "degree": "senior" },
+				{ "name": "Python", "degree": "senior" },
+				{ "name": "DJango", "degree": "junior" }
+			]
+		},
+		{
+			"header": {
+				"name": "database part",
+				"color": "rgb(159 207 229)",
+				"percent": "100"
+			},
+			"skills": [
+				{ "name": "MySQL", "degree": "senior" },
+				{ "name": "Firebase Real-time Database", "degree": "senior" },
+				{ "name": "MariaDB", "degree": "senior" },
+				{ "name": "PostgreSQL", "degree": "senior" },
+				{ "name": "MongoDB", "degree": "senior" },
+				{ "name": "OracleDB", "degree": "junior" }
+			]
+		},
+		{
+			"header": {
+				"name": "hosting server management",
+				"color": "rgb(159 207 229)",
+				"percent": "40"
+			},
+			"skills": [
+				{
+					"name": "AWS",
+					"degree": "senior"
+				},
+				{
+					"name": "Digital Ocean",
+					"degree": "senior"
+				},
+				{
+					"name": "Heroku",
+					"degree": "junior"
+				},
+				{
+					"name": "Vercel",
+					"degree": "senior"
+				}
+			]
+		}
+	],
+	"experiences": [
+		{
+			"logo": "img/experiences/cyberlete/logo.png",
+			"title": "Node.js Back-End Developer",
+			"time": "July ~ August, 2022",
+			"location": "United States",
+			"description": "Blockchain Game Web3",
+			"status": "Out",
+			"images": [
+				{
+					"link": "img/experiences/cyberlete/1.png",
+					"title": "Cyberlete"
+				},{
+					"link": "img/experiences/cyberlete/2.jpg",
+					"title": "Cyberlete"
+				},{
+					"link": "img/experiences/cyberlete/3.jpg",
+					"title": "Cyberlete"
+				},{
+					"link": "img/experiences/cyberlete/4.jpg",
+					"title": "Cyberlete"
+				}
+			],
+			"details": {
+				"members": "40K More",
+				"type": "Contract - Full time",
+				"period": "2 months",
+				"tecs": ["Node.js", "Solidity", "NFT", "Web3.js", "RestAPI development"],
+				"partners": [
+					
+				],
+				"achievements": "https://cyberlete.io/"
+			}
+		},
+		{
+			"logo": "img/experiences/cyberhuntresses/1.png",
+			"title": "Solidity Block-chain Developer",
+			"time": "June, 2022",
+			"location": "United States",
+			"description": "Market Of Zion",
+			"status": "finished",
+			"images": [
+				{
+					"link": "img/experiences/cyberhuntresses/1.jpg",
+					"title": "Market Of Zion"
+				},{
+					"link": "img/experiences/cyberhuntresses/2.jpg",
+					"title": "Market Of Zion"
+				},{
+					"link": "img/experiences/cyberhuntresses/3.jpg",
+					"title": "Market Of Zion"
+				}
+			],
+			"details": {
+				"members": "8K More",
+				"type": "Contract - Full time",
+				"period": "2 week",
+				"tecs": ["Block-chain Development", "Solidity", "NFT Minting", "Web3.js", "React.js", "Fantom", "Front End Development"],
+				"partners": [
+					
+				],
+				"achievements": "https://mint.marketofzion.com/"
+			}
+		},
+		{
+			"logo": "img/experiences/thedevilassassins/welcome.png",
+			"title": "Rust Block-chain developer",
+			"time": "May ~ June, 2022",
+			"location": "United States",
+			"description": "The Devil's Assassins",
+			"status": "ongoing",
+			"images": [
+				{
+					"link": "img/experiences/thedevilassassins/1.jpg",
+					"title": "The Devil's Assassins"
+				}, {
+					"link": "img/experiences/thedevilassassins/2.jpg",
+					"title": "The Devil's Assassins"
+				}, {
+					"link": "img/experiences/thedevilassassins/3.jpg",
+					"title": "The Devil's Assassins"
+				}
+			],
+			"details": {
+				"members": "140 More",
+				"type": "Contract - Part time",
+				"period": "1 week",
+				"tecs": ["Rust", "NFT Minting", "Web3.js", "React.js", "Solana", "Candy Machine V2", "Meta Plex", "Block-chain Development"],
+				"partners": [
+					
+				],
+				"achievements": "https://the-devil-assassin.vercel.app/"
+			}
+		},
+		{
+			"logo": "img/experiences/rugratz/tommy_v2_edit_crop_v2.jpg",
+			"title": "Solidity Blockchain Developer",
+			"time": "May, 2022",
+			"location": "United States",
+			"description": "𝘙𝘶𝘨𝘨𝘪𝘦𝘻",
+			"status": "finished",
+			"images": [
+				{
+					"link": "img/experiences/rugratz/1.jpg",
+					"title": "𝘙𝘶𝘨𝘨𝘪𝘦𝘻"
+				},{
+					"link": "img/experiences/rugratz/2.jpg",
+					"title": "𝘙𝘶𝘨𝘨𝘪𝘦𝘻"
+				},{
+					"link": "img/experiences/rugratz/4.jpg",
+					"title": "𝘙𝘶𝘨𝘨𝘪𝘦𝘻"
+				},{
+					"link": "img/experiences/rugratz/3.jpg",
+					"title": "𝘙𝘶𝘨𝘨𝘪𝘦𝘻"
+				}
+			],
+			"details": {
+				"members": "5K More",
+				"type": "Contract - Full time",
+				"period": "1 week",
+				"tecs": ["Block-chain Development", "Solidity", "NFT Mint", "NFT Metadata", "Web3.js", "ether.js", "React.js", "ERC-721", "Front End Development"],
+				"partners": [
+					
+				],
+				"achievements": "https://ruggieznft.xyz/ruggiez/"
+			}
+		},
+		{
+			"logo": "img/experiences/100daysfinance/logo.6b625acf.gif",
+			"title": "Web3 Front-End developer",
+			"time": "Apr - May, 2022",
+			"location": "United States",
+			"description": "100 Days Ventures",
+			"status": "finished",
+			"images": [
+				{
+					"link": "img/experiences/100daysfinance/1.jpg",
+					"title": "100 Days Ventures"
+				},{
+					"link": "img/experiences/100daysfinance/2.jpg",
+					"title": "100 Days Ventures"
+				},{
+					"link": "img/experiences/100daysfinance/3.jpg",
+					"title": "100 Days Ventures"
+				}
+			],
+			"details": {
+				"members": "10K More",
+				"type": "Contract - Full time as Short term",
+				"period": "1 week",
+				"tecs": ["Web3", "Traderjoe SDK", "Material UI", "Block-chain Development", "Solidity", "Smart Contract Audit", "ether.js", "@web3-react/core", "React.js"],
+				"partners": [
+					
+				],
+				"achievements": "https://100days.finance/"
+			}
+		},
+		{
+			"logo": "img/experiences/pawoo/pawoo.png",
+			"title": "Solidity Smart Contract Auditor",
+			"time": "Apr 2022",
+			"location": "Saudi Arabia",
+			"description": "PAWOO",
+			"status": "finished",
+			"images": [
+				{
+					"link": "img/experiences/pawoo/1.jpg",
+					"title": "PAWOO"
+				}
+			],
+			"details": {
+				"members": "2.2K More",
+				"type": "Contract - Part time",
+				"period": "1 weeks",
+				"tecs": ["NFT Mint", "NFT Metadata", "Block-chain Development", "Solidity", "Smart Contract Audit", "etherscan", "ERC-721"],
+				"partners": [
+					{
+						"name": "Mohamed",
+						"jobTitle": "Co-founder",
+						"picture": "img/experiences/pawoo/1.png"
+					}
+				],
+				"achievements": "https://etherscan.io/address/0xa7689038d9b604c9deedb3afc3c23cd973aaaf13"
+			}
+		},
+		{
+			"logo": "img/experiences/theunderground/Gold.gif",
+			"title": "Block-chain Solidity Developer",
+			"time": "Mar 2022 - Apr, 2022",
+			"location": "United States",
+			"description": "https://the-underground-nfts.vercel.app/",
+			"status": "finished",
+			"images": [
+				{
+					"link": "img/experiences/theunderground/1.jpg",
+					"title": "The Underground NFTs"
+				},
+				{
+					"link": "img/experiences/theunderground/2.jpg",
+					"title": "The Underground NFTs"
+				},
+				{
+					"link": "img/experiences/theunderground/3.jpg",
+					"title": "The Underground NFTs"
+				}
+			],
+			"details": {
+				"members": "10K More",
+				"type": "Contract - Full time",
+				"period": "1 months",
+				"tecs": ["NFT Mint", "NFT Metadata", "Solidity", "Smart Contract", "Block-chain Development", "Web3.js", "React.js", "Front End Development"],
+				"partners": [
+					{
+						"name": "Rocky",
+						"jobTitle": "Co-founder",
+						"picture": "img/experiences/theunderground/Rocky.jpeg"
+					}
+				],
+				"achievements": "https://etherscan.io/address/0x4c58dab3a82dbe6d5c7c3fc9147cc2445a3500c1"
+			}
+		},
+		{
+			"logo": "img/experiences/mymoon/favicon.ico",
+			"title": "Full Stack PHP & Laravel Developer",
+			"time": "Nov 2021",
+			"location": "Germany",
+			"description": "MyMoon Online Learning Management System",
+			"status": "finished",
+			"images": [
+				{
+						"link": "img/experiences/mymoon/Screenshot_1.png",
+						"title": "Mymoon Online LTD"
+				},
+				{
+						"link": "img/experiences/mymoon/Screenshot_2.png",
+						"title": "Mymoon Online"
+				},
+				{
+						"link": "img/experiences/mymoon/Screenshot_3.png",
+						"title": "Mymoon Online"
+				}
+			],
+			"details": {
+				"members": "10 less",
+				"type": "Contract - Full time",
+				"period": "2 weeks",
+				"tecs": ["PHP", "Laravel", "MySQL", "Vue.js", "Complex Back-end integration"],
+				"partners": [
+					{
+						"name": "Andrea",
+						"jobTitle": "Co-founder",
+						"picture": "img/experiences/mymoon/partners/andrea.png"
+					},
+					{
+						"name": "Lara",
+						"jobTitle": "Co-founder",
+						"picture": "img/experiences/mymoon/partners/lara.png"
+					},
+					{
+						"name": "Sheikha Hanaa",
+						"jobTitle": "Head teacher",
+						"picture": "img/experiences/mymoon/partners/Sheikha.png"
+					},
+					{
+						"name": "Laila",
+						"jobTitle": "Teacher-Coordinator",
+						"picture": "img/experiences/mymoon/partners/laila.png"
+					},
+					{
+						"name": "Neda",
+						"jobTitle": "Copy-Writer",
+						"picture": "img/experiences/mymoon/partners/neda.png"
+					},
+					{
+						"name": "Fatlum",
+						"jobTitle": "Designer",
+						"picture": "img/experiences/mymoon/partners/Fatlum.png"
+					},
+					{
+						"name": "Rocky",
+						"jobTitle": "Project Manager",
+						"picture": "img/experiences/mymoon/partners/Rocky.png"
+					},
+					{
+						"name": "Nazmul",
+						"jobTitle": "Senior Developer",
+						"picture": "img/experiences/mymoon/partners/Nazmul.png"
+					}
+				],
+				"achievements": "https://mymoononline.com/"
+			}
+		},
+		{
+			"logo": "img/experiences/crox/favicon.ico",
+			"title": "TypeScript & Web3 developer",
+			"time": "Oct 2021 - March, 2022",
+			"location": "San Francisco, United States",
+			"description": "Crox Swap",
+			"status": "finished",
+			"images": [
+				{
+					"link": "img/experiences/crox/Screenshot_4.png",
+					"title": "Crox Swap"
+				},
+				{
+					"link": "img/experiences/crox/Screenshot_1.png",
+					"title": "Crox Swap Farm"
+				},
+				{
+					"link": "img/experiences/crox/Screenshot_2.png",
+					"title": "CROXMAS"
+				}
+			],
+			"details": {
+				"members": "30K More",
+				"type": "Contract - Full time",
+				"period": "6 months",
+				"tecs": ["TypeScript", "React.js", "Web3.js", "Web3Modal", "SCSS/CSS3/Material-UI", "Front-end development"],
+				"partners": [
+				],
+				"achievements": "https://www.croxswap.com/"
+			}
+		},
+		{
+			"logo": "img/experiences/hyperchainx/logo.png",
+			"title": "Node Back-End Developer",
+			"time": "Mar ~ Sep, 2021",
+			"location": "United States",
+			"description": "HyperChain X",
+			"status": "finished",
+			"images": [
+				{
+					"link": "img/experiences/hyperchainx/1.jpg",
+					"title": "HyperChainX NFT marketplace"
+				},
+				{
+					"link": "img/experiences/hyperchainx/2.jpg",
+					"title": "HyperChainX NFT marketplace"
+				}
+			],
+			"details": {
+				"members": "27K More",
+				"type": "Contract - Full time",
+				"period": "5 months",
+				"tecs": ["React.js", "Node.js", "Web3.js", "Web3Modal", "TypeScript", "SCSS/CSS3/Material-UI", "Back End Development", "Front End Development", "NFT Marketplace"],
+				"partners": [
+				],
+				"achievements": "https://hyperxnft.web.app/"
+			}
+		},
+		{
+			"logo": "img/experiences/freelancer/logo.svg",
+			"title": "Full Stack developer",
+			"time": "Feb, 2018 ~ Nov, 2020",
+			"location": "Remote",
+			"description": "Freelancer.com",
+			"status": "finished",
+			"images": [
+				
+			],
+			"details": {
+				"members": "20K More",
+				"type": "Contract - Full time",
+				"period": "2 years",
+				"tecs": ["React.js", "Node.js", "Laravel", "PHP", "TypeScript", "CSS", "Back End Development", "Front End Development", "JavaScript"],
+				"partners": [
+				],
+				"achievements": "https://freelancer.com/"
+			}
+		}
+	],
+	"projects": [
+		{
+			"logo": "img/experiences/pawoo/pawoo.png",
+			"title": "PAWOO - NFT Mint",
+			"time": "Apr 2022 - Apr, 2022",
+			"location": "Saudi Arab",
+			"description": "PAWOO",
+			"status": "online",
+			"images": [
+				{
+					"link": "img/experiences/pawoo/1.jpg",
+					"title": "PAWOO"
+				}
+			],
+			"details": {
+				"members": "2.2K More",
+				"type": "Contract - Part time",
+				"period": "1 weeks",
+				"tecs": ["Solidity", "Smart Contract", "etherscan", "ERC-721"],
+				"partners": [
+					{
+						"name": "Mohamed",
+						"jobTitle": "Co-founder",
+						"picture": "img/experiences/pawoo/1.png"
+					}
+				],
+				"achievements": "https://etherscan.io/address/0xa7689038d9b604c9deedb3afc3c23cd973aaaf13"
+			}
+		},
+		{
+			"logo": "img/experiences/theunderground/Gold.gif",
+			"title": "The Underground NFTs - NFT Mint",
+			"time": "Mar 2022 - Apr, 2022",
+			"location": "United States",
+			"description": "https://the-underground-nfts.vercel.app/",
+			"status": "closed",
+			"details": {
+				"members": "10K More",
+				"type": "Contract - Full time",
+				"period": "1 month",
+				"tecs": ["Solidity", "Smart Contract", "Web3.js", "React.js", "Front-end development", "Opensea"],
+				"partners": [
+					{
+						"name": "Rocky",
+						"jobTitle": "Co-founder",
+						"picture": "img/experiences/theunderground/Rocky.jpeg"
+					}
+				],
+				"achievements": ["https://etherscan.io/address/0x4c58dab3a82dbe6d5c7c3fc9147cc2445a3500c1"]
+			}
+		},
+		{
+			"logo": "img/experiences/crox/favicon.ico",
+			"title": "CroxSwap - Blockchain Swap Exchange Website",
+			"time": "Oct 2021 - Feb, 2022",
+			"location": "Los Angeles, United States",
+			"description": "Crox Swap website",
+			"status": "online",
+			"details": {
+				"members": "10K More",
+				"type": "Contract - Full time",
+				"period": "5 month",
+				"tecs": ["React.js", "Web3.js", "TypeScript", "SCSS/CSS3/Material-UI", "Front-end development"],
+				"partners": [
+				],
+				"achievements": "https://www.croxswap.com/"
+			}
+		},
+		{
+			"logo": "img/experiences/mymoon/favicon.ico",
+			"title": "MyMoon Online Education Learning Website",
+			"time": "Oct 2021 - Dec 2021",
+			"location": "Germany",
+			"description": "MyMoon Online Learning Management System",
+			"status": "online",
+			"details": {
+				"members": "10 less",
+				"type": "Contract - Part time",
+				"period": "15 May 2020",
+				"tecs": ["PHP", "Laravel", "MySQL", "Vue.js", "Complex Back-end integration"],
+				"partners": [
+					{
+						"name": "Andrea",
+						"jobTitle": "Co-founder",
+						"picture": "img/experiences/mymoon/partners/andrea.png"
+					},
+					{
+						"name": "Lara",
+						"jobTitle": "Co-founder",
+						"picture": "img/experiences/mymoon/partners/lara.png"
+					},
+					{
+						"name": "Sheikha Hanaa",
+						"jobTitle": "Head teacher",
+						"picture": "img/experiences/mymoon/partners/Sheikha.png"
+					},
+					{
+						"name": "Laila",
+						"jobTitle": "Teacher-Coordinator",
+						"picture": "img/experiences/mymoon/partners/laila.png"
+					},
+					{
+						"name": "Neda",
+						"jobTitle": "Copy-Writer",
+						"picture": "img/experiences/mymoon/partners/neda.png"
+					},
+					{
+						"name": "Fatlum",
+						"jobTitle": "Designer",
+						"picture": "img/experiences/mymoon/partners/Fatlum.png"
+					},
+					{
+						"name": "Rocky",
+						"jobTitle": "Project Manager",
+						"picture": "img/experiences/mymoon/partners/Rocky.png"
+					},
+					{
+						"name": "Nazmul",
+						"jobTitle": "Senior Developer",
+						"picture": "img/experiences/mymoon/partners/Nazmul.png"
+					}
+				],
+				"achievements": "https://mymoononline.com/"
+			}
+		},
+		{
+			"logo": "img/experiences/miso/miso.ico",
+			"title": "MISO SUSHI",
+			"time": "May 2020 - Aug 2021",
+			"location": "United States",
+			"description": "MISO is a suite of open-source smart contracts created to ease the process of launching a new project on the SushiSwap exchange.",
+			"status": "away",
+			"images": [
+				{
+					"link": "img/experiences/miso/Screenshot_3.png",
+					"title": "FINISHED SALES"
+				},
+				{
+					"link": "img/experiences/miso/Screenshot_1.png",
+					"title": "Deployed Tokens"
+				},
+				{
+					"link": "img/experiences/miso/Screenshot_2.png",
+					"title": "Finished Auction"
+				}
+			],
+			"details": {
+				"members": "100K +",
+				"type": "Self Employed - Full Time",
+				"period": "2 years",
+				"tecs": ["Vue.js", "Nuxt.js", "CSS/SCSS/Vue-bootstrap", "Front-end development", "Web3.js", "Auction/Blockchain development", "Node.js"],
+				"partners": [
+				],
+				"achievements": "https://miso.sushi.com/"
+			}
+		},
+		{
+			"logo": "img/experiences/fresha/apple-touch-icon-180x180.png",
+			"title": "Fresha",
+			"time": "Oct 2018",
+			"location": "Dubai, United Arab Emirates",
+			"description": "Built the booking system",
+			"status": "online",
+			"images": [
+				{
+					"link": "img/experiences/fresha/1.jpg",
+					"title": "Fresha"
+				},
+				{
+					"link": "img/experiences/fresha/2.jpg",
+					"title": "Fresha"
+				},
+				{
+					"link": "img/experiences/fresha/3.jpg",
+					"title": "Fresha"
+				}
+			],
+			"details": {
+				"members": "50k More",
+				"type": "Contract - Full Time",
+				"period": "4 month",
+				"tecs": ["React.js", "TypeScript", "Node.js", "MySQL"],
+				"partners": [
+				],
+				"achievements": "https://www.fresha.com/"
+			}
+		}
+	],
+	"memories": [
+		{
+			"title": "ircolor.ir",
+			"description": "Best color code website in iran , Detect HEX , RGB , HSL code and similar colors with PHP , with api . See Alexa rank please",
+			"link": "http://ircolor.ir",
+			"source": "https://github.com/faridfr/ircolor",
+			"images": [
+				{
+					"link": "img/memories/ircolor-1.png",
+					"title": ""
+				},
+				{
+					"link": "img/memories/ircolor-2.png",
+					"title": ""
+				}
+			]
+		},
+		{
+			"title": "optia.ir",
+			"description": "Optimizing Finite Automata & draw it",
+			"link": "http://optia.ir",
+			"source": "https://github.com/faridfr/Optimizing_Finite_Automata",
+			"images": [
+				{
+					"link": "img/memories/optia-1.png",
+					"title": ""
+				},
+				{
+					"link": "img/memories/optia-2.png",
+					"title": ""
+				}
+			]
+		},
+		{
+			"title": "Developer at Parsua",
+			"description": "Little company in Iran - Shahrood",
+			"images": [
+				{
+					"link": "img/memories/parsua-1.jpg",
+					"title": "Parsua"
+				},
+				{
+					"link": "img/memories/parsua-2.jpg",
+					"title": "Parsua"
+				},
+				{
+					"link": "img/memories/parsua-3.jpg",
+					"title": "Parsua"
+				}
+			]
+		},
+		{
+			"title": "Teaching & Presentations",
+			"description": "",
+			"images": [
+				{
+					"link": "img/memories/teaching-1.jpg",
+					"title": "Web workshop - Shahrood university"
+				},
+				{
+					"link": "img/memories/teaching-2.jpg",
+					"title": "Web workshop - Shahrood university"
+				},
+				{
+					"link": "img/memories/teaching-3.jpg",
+					"title": "Programming TA"
+				},
+				{
+					"link": "img/memories/teaching-4.jpg",
+					"title": "Startup Challenges presentation"
+				}
+			]
+		},
+		{
+			"title": "Collaborate with startups",
+			"description": "",
+			"images": [
+				{
+					"link": "img/memories/hamed-1.jpeg",
+					"title": ""
+				},
+				{
+					"link": "img/memories/razazan-1.jpg",
+					"title": ""
+				},
+				{
+					"link": "img/memories/razazan-2.jpg",
+					"title": ""
+				}
+			]
+		}
+	],
+	"educations": [
+		{
+			"logo": "img/logos/images.jpg",
+			"title": "The University of Tokyo",
+			"time": "04/2013 - 12/2017",
+			"description": "Bachelor's degree - Computer Science, Programming"
+		}
+	],
+	"contact": {
+		"mobile": "+4159925542",
+		"email": "solaristechit@gmail.com",
+		"github": "KKOO727",
+		"linkedin": "in/richard-kei-205810218/",
+		"twitter": "RichardKei727",
+		"address": "San Francisco, California. United States"
+	}
+}
